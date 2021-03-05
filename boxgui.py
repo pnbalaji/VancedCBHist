@@ -114,7 +114,7 @@ try:
                 'DETAILS:\n' +
                 'Current version: ' + __version__ + '\n' +
                 'Available update: ' + el.text.strip(),
-                'Update VancedCBHist',
+                'Update Vanced CB Hist',
                 ['Open Update Link', 'Copy Update Link', 'Skip Update']
             )
             if not ans:

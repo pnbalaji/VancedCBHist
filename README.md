@@ -138,7 +138,7 @@ This command should launch something like this.
 
 If you see something like this instead, go ahead and update Vanced CB Hist.
 
-[![gui-update-screen.png](https://i.postimg.cc/g2FRD0nd/gui-update-screen.png)](https://postimg.cc/Wh8hpTGf)
+[![gui-update-screen.png](https://i.postimg.cc/jdMpSqsP/gui-update-screen.png)](https://postimg.cc/rKtnhkRw)
 
 Once you click "Decrypt a Database", you will be prompted to open an encrypted
 database file. Now, select a database.
@@ -165,7 +165,7 @@ When you see this screen, select "Yes" to start decrypting the database.
 
 If you see this screen, it means the password stored in the program does not
 match the password of the value in the database. At first, the password is
-set to `null` (`None` in Python). Click "OK" and continue.
+set to an empty string. Click "OK" and continue.
 
 [![gui-pwd-input.png](https://i.postimg.cc/DfGZq1bt/gui-pwd-input.png)](https://postimg.cc/kDnqC6sc)
 
