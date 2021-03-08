@@ -47,7 +47,8 @@ If you want, create a virtual environment.
 ```sh
 me@my-MBP …Hist $ python3 -m pip install -U virtualenv # optional
 me@my-MBP …Hist $ virtualenv venv # optional
-me@my-MBP …Hist $ source ./venv/bin/activate # optional
+me@my-MBP …Hist $ source ./venv/bin/activate # unix, optional
+me@my-MBP …Hist $ .\venv\Scripts\activate # windows, optional
 ```
 
 Now, install the requirements.
@@ -99,7 +100,8 @@ If you want, create a virtual environment.
 ```sh
 me@my-MBP …Hist $ python3 -m pip install virtualenv # optional
 me@my-MBP …Hist $ virtualenv venv # optional
-me@my-MBP …Hist $ source venv/bin/activate # optional
+me@my-MBP …Hist $ source ./venv/bin/activate # unix, optional
+me@my-MBP …Hist $ .\venv\Scripts\activate # windows, optional
 ```
 
 Now, install the requirements.
