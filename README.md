@@ -55,6 +55,7 @@ Now, install the requirements.
 
 ```sh
 (venv) me@my-MBP …Hist $ python3 -m pip install -r requirements.txt
+(venv) me@my-MBP …Hist $ python3 -m pip install -U windows-curses # windows, required
 ```
 
 Now you can run `cbhist.py`.
@@ -108,6 +109,7 @@ Now, install the requirements.
 
 ```sh
 (venv) me@my-MBP …Hist $ python3 -m pip install -r requirements.txt
+(venv) me@my-MBP …Hist $ python3 -m pip install -U windows-curses # windows, required
 ```
 
 You are ready to run `cbhist.py` now.
